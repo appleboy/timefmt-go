@@ -1,3 +1,3 @@
-module github.com/itchyny/timefmt-go
+module github.com/appleboy/timefmt-go
 
 go 1.14
